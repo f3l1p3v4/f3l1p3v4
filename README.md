@@ -6,3 +6,7 @@ Desenvolvedor Frontend
 [![Gmail Badge](https://img.shields.io/badge/-fvaldez018@gmail.com-333bcc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fvaldez018@gmail.com)](mailto:fvaldez018@gmail.com)
 
 Estudo programação desde 2018 e me apaixonei por códigos. Atualmente trabalho como freelancer, sou o criador da Devload, a ideia é ajudar pessoas que estão querendo iniciar na área de desenvolvimento com conteúdos em redes sociais, blogs e cursos.
+
+Estudo programação desde 2018 e me apaixonei por códigos. Atualmente trabalho como freelancer, creie a 
+Devload com intuito de ajudar pessoas que estão querendo iniciar na área de 
+desenvolvimento com conteúdos em redes sociais, blogs e cursos.
